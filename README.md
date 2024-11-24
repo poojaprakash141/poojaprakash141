@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL STACK AND SQL DEVELOPR
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [poojapraksash20@email.com](mailto:poojapraksash20@email.com)
+* ✉️  You can contact me at [poojapraksash20gmail.com](mailto:poojapraksash20@email.com)
 * 🧠  I'm learning Advanced nodejs,expressm,Andvanced angular ,Monogodb
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Always excited to solve challenging problems and build creative solutions. When I'm not coding, you might find me exploring playing chess!
